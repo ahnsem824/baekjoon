@@ -123,7 +123,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10171_고양이찍기.cpp" />
+    <ClCompile Include="1330_두수비교하기.cpp" />
+    <ClCompile Include="14681_사분면고르기.cpp" />
     <ClCompile Include="15596.cpp" />
+    <ClCompile Include="2753_윤년.cpp" />
+    <ClCompile Include="2884_알람시계.cpp" />
+    <ClCompile Include="4673.cpp" />
+    <ClCompile Include="9498_시험성적.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,10 +13,45 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\if">
+      <UniqueIdentifier>{e6849067-7d93-48d1-9429-0cf4037596cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\함수">
+      <UniqueIdentifier>{0e348432-4ce4-40c0-a187-cd5ec63036fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="15596.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10171_고양이찍기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1330_두수비교하기.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="4673.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="15596.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="9498_시험성적.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="2753_윤년.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="14681_사분면고르기.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="2884_알람시계.cpp">
+      <Filter>소스 파일\if</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
