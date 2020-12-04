@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\함수">
       <UniqueIdentifier>{0e348432-4ce4-40c0-a187-cd5ec63036fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\for">
+      <UniqueIdentifier>{0b63138d-7220-4018-a3a7-17d17a7e69b6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -47,6 +50,21 @@
     </ClCompile>
     <ClCompile Include="2884_알람시계.cpp">
       <Filter>소스 파일\if</Filter>
+    </ClCompile>
+    <ClCompile Include="2739_구구단.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="10950_A+B-3.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="8393_합.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="15552_빠른A+B.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="2741_N찍기.cpp">
+      <Filter>소스 파일\for</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
