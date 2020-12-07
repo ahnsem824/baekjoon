@@ -66,6 +66,21 @@
     <ClCompile Include="2741_N찍기.cpp">
       <Filter>소스 파일\for</Filter>
     </ClCompile>
+    <ClCompile Include="2742_기찍N.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="11021_A+B_7.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="11022_A+B_8.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="2438_별찍기.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
+    <ClCompile Include="2439_별찍기오른쪽정렬.cpp">
+      <Filter>소스 파일\for</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

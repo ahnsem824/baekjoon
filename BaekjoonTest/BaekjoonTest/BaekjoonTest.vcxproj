@@ -125,12 +125,17 @@
   <ItemGroup>
     <ClCompile Include="10171_고양이찍기.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
+    <ClCompile Include="11021_A+B_7.cpp" />
+    <ClCompile Include="11022_A+B_8.cpp" />
     <ClCompile Include="1330_두수비교하기.cpp" />
     <ClCompile Include="14681_사분면고르기.cpp" />
     <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="15596.cpp" />
+    <ClCompile Include="2438_별찍기.cpp" />
+    <ClCompile Include="2439_별찍기오른쪽정렬.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
+    <ClCompile Include="2742_기찍N.cpp" />
     <ClCompile Include="2753_윤년.cpp" />
     <ClCompile Include="2884_알람시계.cpp" />
     <ClCompile Include="4673.cpp" />
