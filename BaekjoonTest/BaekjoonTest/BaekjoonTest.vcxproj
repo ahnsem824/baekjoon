@@ -124,22 +124,32 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10171_고양이찍기.cpp" />
+    <ClCompile Include="10818_최소최대.cpp" />
+    <ClCompile Include="10871_X보다작은수.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
+    <ClCompile Include="10951_A+B_4.cpp" />
+    <ClCompile Include="10952_A+B_5.cpp" />
     <ClCompile Include="11021_A+B_7.cpp" />
     <ClCompile Include="11022_A+B_8.cpp" />
     <ClCompile Include="1330_두수비교하기.cpp" />
     <ClCompile Include="14681_사분면고르기.cpp" />
+    <ClCompile Include="1546_평균.cpp" />
     <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="15596.cpp" />
     <ClCompile Include="2438_별찍기.cpp" />
     <ClCompile Include="2439_별찍기오른쪽정렬.cpp" />
+    <ClCompile Include="2562_최댓값.cpp" />
+    <ClCompile Include="2577_숫자의갯수.cpp" />
     <ClCompile Include="2739_구구단.cpp" />
     <ClCompile Include="2741_N찍기.cpp" />
     <ClCompile Include="2742_기찍N.cpp" />
     <ClCompile Include="2753_윤년.cpp" />
     <ClCompile Include="2884_알람시계.cpp" />
+    <ClCompile Include="3052_나머지.cpp" />
+    <ClCompile Include="4344_평균은넘겠지.cpp" />
     <ClCompile Include="4673.cpp" />
     <ClCompile Include="8393_합.cpp" />
+    <ClCompile Include="8958_OX퀴즈.cpp" />
     <ClCompile Include="9498_시험성적.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
