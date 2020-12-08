@@ -117,6 +117,9 @@
     <ClCompile Include="4344_평균은넘겠지.cpp">
       <Filter>소스 파일\1차원배열</Filter>
     </ClCompile>
+    <ClCompile Include="1065_한수.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

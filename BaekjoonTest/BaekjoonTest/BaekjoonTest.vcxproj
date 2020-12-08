@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10171_고양이찍기.cpp" />
+    <ClCompile Include="1065_한수.cpp" />
     <ClCompile Include="10818_최소최대.cpp" />
     <ClCompile Include="10871_X보다작은수.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
