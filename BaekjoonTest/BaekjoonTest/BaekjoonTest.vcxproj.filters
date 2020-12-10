@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\1차원배열">
       <UniqueIdentifier>{bf7f407b-9081-459d-bfea-5c30dcb80787}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{8fdc8a04-d21c-4fc8-b9ad-0bd273124b4e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -119,6 +122,36 @@
     </ClCompile>
     <ClCompile Include="1065_한수.cpp">
       <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="11654_아스키코드.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11720_숫자의합.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10809_알파벳찾기.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2675_문자열반복.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1157_단어공부.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1152_단어의개수.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2908_상수.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="5622_다이얼.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2941_크로아티아알파벳.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1316_그룹단어체커.cpp">
+      <Filter>소스 파일\문자열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
