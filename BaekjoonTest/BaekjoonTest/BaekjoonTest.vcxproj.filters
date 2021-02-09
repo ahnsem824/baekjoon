@@ -165,6 +165,9 @@
     <ClCompile Include="2292_벌집.cpp">
       <Filter>소스 파일\수학1</Filter>
     </ClCompile>
+    <ClCompile Include="1193_분수찾기.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

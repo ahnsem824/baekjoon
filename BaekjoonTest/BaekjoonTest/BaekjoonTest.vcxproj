@@ -137,6 +137,7 @@
     <ClCompile Include="1157_단어공부.cpp" />
     <ClCompile Include="11654_아스키코드.cpp" />
     <ClCompile Include="11720_숫자의합.cpp" />
+    <ClCompile Include="1193_분수찾기.cpp" />
     <ClCompile Include="1316_그룹단어체커.cpp" />
     <ClCompile Include="1330_두수비교하기.cpp" />
     <ClCompile Include="14681_사분면고르기.cpp" />
