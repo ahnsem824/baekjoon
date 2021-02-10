@@ -11,8 +11,24 @@ void 분수찾기_1193()
 	int a;
 
 	cin >> a;
+	int b = 0;
+	int c = 0;
+	while (a>b)
+	{
+		b += c;
+		c++;
+	}
 
-	int i;
+	if (c % 2 == 1)
+	{
+		cout << c-1 - (b - a) << "/" << 1 + (b - a);
+	}
+	else if (c % 2 == 0)
+	{
+		cout << 1 + (b - a) << "/" << c-1 - (b - a);
+	}
+	
+	/*int i;
 
 	for (i = 1; a > 0; i++)
 	{
@@ -26,5 +42,8 @@ void 분수찾기_1193()
 	{
 		cout << 1 - a << "/" << i + a - 1 << endl;
 	}
+*/
 
+
+	
 }
