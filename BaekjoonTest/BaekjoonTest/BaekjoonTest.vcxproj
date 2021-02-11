@@ -156,6 +156,7 @@
     <ClCompile Include="2742_기찍N.cpp" />
     <ClCompile Include="2753_윤년.cpp" />
     <ClCompile Include="2839_설탕배달.cpp" />
+    <ClCompile Include="2869_달팽이는올라가고싶다.cpp" />
     <ClCompile Include="2884_알람시계.cpp" />
     <ClCompile Include="2908_상수.cpp" />
     <ClCompile Include="2941_크로아티아알파벳.cpp" />
