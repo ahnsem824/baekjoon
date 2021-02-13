@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10171_고양이찍기.cpp" />
+    <ClCompile Include="10250_ACM호텔.cpp" />
     <ClCompile Include="1065_한수.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10818_최소최대.cpp" />
@@ -145,6 +146,7 @@
     <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="15596.cpp" />
     <ClCompile Include="1712_손익분기점.cpp" />
+    <ClCompile Include="2275_부녀회장이될테야.cpp" />
     <ClCompile Include="2292_벌집.cpp" />
     <ClCompile Include="2438_별찍기.cpp" />
     <ClCompile Include="2439_별찍기오른쪽정렬.cpp" />
