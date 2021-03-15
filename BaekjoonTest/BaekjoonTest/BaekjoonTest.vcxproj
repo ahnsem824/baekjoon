@@ -126,9 +126,12 @@
     <ClCompile Include="10171_고양이찍기.cpp" />
     <ClCompile Include="10250_ACM호텔.cpp" />
     <ClCompile Include="1065_한수.cpp" />
+    <ClCompile Include="10757_큰수A+B.cpp" />
     <ClCompile Include="10809_알파벳찾기.cpp" />
     <ClCompile Include="10818_최소최대.cpp" />
+    <ClCompile Include="10870_피보나치수5.cpp" />
     <ClCompile Include="10871_X보다작은수.cpp" />
+    <ClCompile Include="10872_팩토리얼.cpp" />
     <ClCompile Include="10950_A+B-3.cpp" />
     <ClCompile Include="10951_A+B_4.cpp" />
     <ClCompile Include="10952_A+B_5.cpp" />
@@ -139,6 +142,7 @@
     <ClCompile Include="11654_아스키코드.cpp" />
     <ClCompile Include="11720_숫자의합.cpp" />
     <ClCompile Include="1193_분수찾기.cpp" />
+    <ClCompile Include="1260_DFS와BFS.cpp" />
     <ClCompile Include="1316_그룹단어체커.cpp" />
     <ClCompile Include="1330_두수비교하기.cpp" />
     <ClCompile Include="14681_사분면고르기.cpp" />
