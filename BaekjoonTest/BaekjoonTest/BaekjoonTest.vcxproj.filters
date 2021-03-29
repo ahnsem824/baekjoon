@@ -195,6 +195,12 @@
     <ClCompile Include="10870_피보나치수5.cpp">
       <Filter>소스 파일\재귀함수</Filter>
     </ClCompile>
+    <ClCompile Include="2447_별찍기10.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="1011_FlymetotheAlphaCentauri.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

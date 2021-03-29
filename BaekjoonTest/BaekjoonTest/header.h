@@ -34,8 +34,10 @@ void 달팽이는올라가고싶다_2869();
 void ACM호텔_10250();
 void 부녀회장이될테야_2275();
 void 큰수AB_10757();
+void FlymetotheAlphaCentauri_1011();
 
 void DFS와BFS_1260();
 
 void 팩토리얼_10872();
 void 피보나치수5_10870();
+void 별찍기_2447();

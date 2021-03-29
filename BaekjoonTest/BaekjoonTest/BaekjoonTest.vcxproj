@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1011_FlymetotheAlphaCentauri.cpp" />
     <ClCompile Include="10171_고양이찍기.cpp" />
     <ClCompile Include="10250_ACM호텔.cpp" />
     <ClCompile Include="1065_한수.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="2292_벌집.cpp" />
     <ClCompile Include="2438_별찍기.cpp" />
     <ClCompile Include="2439_별찍기오른쪽정렬.cpp" />
+    <ClCompile Include="2447_별찍기10.cpp" />
     <ClCompile Include="2562_최댓값.cpp" />
     <ClCompile Include="2577_숫자의갯수.cpp" />
     <ClCompile Include="2675_문자열반복.cpp" />
