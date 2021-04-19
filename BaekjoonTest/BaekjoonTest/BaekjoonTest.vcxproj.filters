@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\재귀함수">
       <UniqueIdentifier>{a7e19146-85ad-4219-976d-f659c1416300}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학2">
+      <UniqueIdentifier>{9fda3cc8-15d4-43fd-9593-ea689cc988e5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -200,6 +203,9 @@
     </ClCompile>
     <ClCompile Include="1011_FlymetotheAlphaCentauri.cpp">
       <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1978_소수찾기.cpp">
+      <Filter>소스 파일\수학2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

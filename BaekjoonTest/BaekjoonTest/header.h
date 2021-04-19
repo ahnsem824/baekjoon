@@ -35,6 +35,7 @@ void ACM호텔_10250();
 void 부녀회장이될테야_2275();
 void 큰수AB_10757();
 void FlymetotheAlphaCentauri_1011();
+void 소수찾기_1978();
 
 void DFS와BFS_1260();
 

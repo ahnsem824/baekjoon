@@ -46,8 +46,9 @@ int main()
 	//ACM호텔_10250();
 	//부녀회장이될테야_2275();
 	//큰수AB_10757();
-	FlymetotheAlphaCentauri_1011();
-
+	//FlymetotheAlphaCentauri_1011();
+	//=== 수학2 ===
+	소수찾기_1978();
 
 	// === DFS와BFS ===
 	//DFS와BFS_1260();

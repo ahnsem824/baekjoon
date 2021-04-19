@@ -151,6 +151,7 @@
     <ClCompile Include="15552_빠른A+B.cpp" />
     <ClCompile Include="15596.cpp" />
     <ClCompile Include="1712_손익분기점.cpp" />
+    <ClCompile Include="1978_소수찾기.cpp" />
     <ClCompile Include="2275_부녀회장이될테야.cpp" />
     <ClCompile Include="2292_벌집.cpp" />
     <ClCompile Include="2438_별찍기.cpp" />
